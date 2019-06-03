@@ -1,0 +1,94 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+.media{
+	margin-top: 200px;
+}
+
+.jumbotron{
+	background-color:#e6e6e6;
+}
+
+.mr-3{
+	width: 150px;
+	height: 100px;
+}
+
+#husky{
+	width:40px;
+	height: 40px;
+}
+
+.nav-item{
+	padding-left: 35px;
+}
+
+.card-deck{
+	margin-top: 200px;
+}
+
+.card-img-top{
+	height: auto;
+	width: 100%;
+}
+
+#my{
+	margin-top: 100px;
+}
+
+#message{
+	height: 200px;
+}
+
+#wysylka{
+	float: right;
+}
+
+hr{
+	border: 1px solid gray;
+}
+
+h3{
+	text-align: justify;
+	font-size: 18px;
+	margin-top: 50px;
+	font-family: Times, Times New Roman, serif;
+	line-height: 27px;
+}
+
+h1{
+	text-align:center;
+	font-size: 55px;
+	margin-top: 50px;
+	font-family:Raleway,sans-serif;
+	text-shadow: 2px 2px #4da6ff;
+}
+
+h4{
+	font-family:Raleway,sans-serif;
+	text-align:center;
+	font-size: 55px;
+	margin-top: 150px;
+	text-shadow: 2px 2px #4da6ff;
+}
+
+#tel{
+	float: right;
+}
+
+#mail{
+	float: left;
+}
+
+#kontakt{
+	margin-top: 200px;
+	margin-bottom: 5px;
+}
+
+#footer{
+	background-color: #e6e6e6;
+}
